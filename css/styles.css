@@ -11297,6 +11297,7 @@ textarea.form-control-lg {
 
 .item-image {
   border-radius: 10px;
+  display: inline-block;
 }
 
 .item-image:hover {
